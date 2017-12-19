@@ -1,0 +1,9 @@
+- What is it, Rick? Texture from Minecraft?
+- No, this is a picture.
+- It looks modern, what's the point in it?
+- It covers the hole in the wall.
+- But I think it has hidden..
+- NO, MORTY! Modern paintings are like women, you'll never enjoy them if you try to understand them. We like the art where it is not visible art.
+- I see, Rick.
+- Art is..
+- I SEE, RICK, JUST SHUT THE TAB WITH THE QUOTES!

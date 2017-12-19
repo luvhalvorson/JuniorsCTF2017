@@ -1,0 +1,1 @@
+Having appeared in a dream on an examination, Teri was perplexed from what occurs he didn't know why to him to do it task , but he felt. Solve Teri's task and PERHAPS you will find what you have come for:) 
