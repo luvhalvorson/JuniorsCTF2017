@@ -1,0 +1,7 @@
+iptables -A overflow_check -m state —state NEW -m hashlimit —hashlimit-upto $CONNECT_LIMIT —hashlimit-burst $BURST_BUCKET —hashlimit-mode srcip —hashlimit-name ATTACK —hashlimit-htable-expire $EXPIRE_TIME -j ACCEPT
+iptables -A overflow_check -m state —state NEW -j log_attack
+
+################### VARIABLES #############################################
+EXPIRE_TIME="120000"
+BURST_BUCKET="30"
+CONNECT_LIMIT="5/second"

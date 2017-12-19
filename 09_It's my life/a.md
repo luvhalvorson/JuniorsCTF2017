@@ -1,0 +1,6 @@
+- Look, Morty, what I've found!
+- But it's just a very old cellular automaton.
+- Just look! It's alive!
+- Still boring. But where did you find it?
+- In some very remote place.
+- Look harder there. Maybe you find something more interesting.
