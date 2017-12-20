@@ -1,0 +1,41 @@
+﻿+----+-------------------------------+-------------+---------------------------------------------------------------------+--------+-----------+
+| ID |             NAME              |  CATEGORY   |                                FLAG                                 | OPENED | SOLVED BY |
++----+-------------------------------+-------------+---------------------------------------------------------------------+--------+-----------+
+|  1 | 21+                           | Etc         | .*KOKTEBEL                                                          | true   |        53 |
+|  2 | It's my life                  | Forensic    | P1AQ3x8a7FtCUDUg                                                    | true   |         0 |
+|  3 | Riders on the space           | GameModding | ?i:b3a5f83c7516cc558d4481e971f78102e2176788a11bd8c3e181753ea22ea120 | true   |         1 |
+|  4 | Typical Admin, but ...        | Forensic    | ^([I,i]t[S,s]o[H,h]ard[T,t]o[P,p]rog[S,s]olo)$                      | true   |        29 |
+|  5 | WoobaLoobaDickDuck            | Crypto      | Disqualified                                                        | true   |         0 |
+|  6 | Безудержное веселье!          | Etc         | youarefunny                                                         | true   |        54 |
+|  7 | Братан, это матан             | Reverse     | .*GunpowderWasDampened                                              | true   |         1 |
+|  8 | Ветер северный                | Forensic    | ?i:((Хостел\s*)?Шоколад)|((Hostel\s*)?Chocolate)                    | true   |        28 |
+|  9 | Все равно она утонет          | Forensic    | (Нижний Тагил)|(Nizhny Tagil)                                       | true   |        21 |
+| 10 | Гость в твоём подвале         | Crypto      | richandmorto                                                        | true   |         4 |
+| 11 | Давайте захватим вселенную!   | Stegano     | Arrrrbekovocity                                                     | true   |        23 |
+| 12 | Дьявол в деталях              | Stegano     | RICK_LOV3_B0RSCH                                                    | true   |         7 |
+| 13 | ЖизньБоль                     | Web         | PASSMEBUTTER                                                        | true   |       100 |
+| 14 | Кидалово                      | Web         | (John Cottrell)|(Cottrell John)                                     | true   |        27 |
+| 15 | Ложные ценности               | Admin       | I_love_PAM_&_RFID                                                   | true   |         1 |
+| 16 | Музыка для народа             | Stegano     | MUSIC_IS_COOL                                                       | true   |       107 |
+| 17 | Мы ее теряем                  | Reverse     | .*NeverLookAGiftHorseInTheMouth                                     | true   |       108 |
+| 18 | Никто не любит флудеров       | Forensic    | Ilovecheeseee                                                       | true   |        15 |
+| 19 | Обнаружена ещё одна планета!  | Reverse     | what_a_lovely_day!                                                  | true   |       143 |
+| 20 | Покажите, на что вы способны! | Etc         | nextround                                                           | true   |         1 |
+| 21 | Попиарь меня, плиз            | Web         | yoUUGOOODhacker46466464                                             | true   |       138 |
+| 22 | Портал в иноземье             | Etc         | Come on!                                                            | true   |       195 |
+| 23 | Просто прочитай флаг          | Web         | flag{32e23c4c8b61a168434f99d8752c0542}                              | true   |        29 |
+| 24 | Пустите переночевать          | Admin       | MyGrandfatherIsCrazy                                                | true   |        22 |
+| 25 | Ревность                      | Forensic    | oJinours78kldmv2                                                    | true   |        25 |
+| 26 | Рик никогда  не дремлет       | Crypto      | borschourall                                                        | true   |        20 |
+| 27 | Сила книг                     | Crypto      | Kids_MusT_reaD                                                      | true   |        12 |
+| 28 | Сладкие грёзы                 | Stegano     | DIFFERENT AGE SANDWICH.?                                            | true   |       208 |
+| 29 | Смерть шпионам                | Reverse     | ?i:release\s*23\s*dec                                               | true   |         1 |
+| 30 | Сообщение на Землю            | Stegano     | deStroY_RECipe_maTter                                               | true   |         5 |
+| 31 | Тери на контрольной           | Admin       | bearlovehoney                                                       | true   |       182 |
+| 32 | Цифровые наркотики            | Reverse     | say_no_to_kalaxian_crystals!                                        | true   |         0 |
+| 33 | Что-то отвалилось на ходу     | Admin       | HorsesGoBackToTheStables                                            | true   |        73 |
+| 34 | Что там у неё внутри, Рик?    | Stegano     | Death!                                                              | true   |        17 |
+| 35 | Парадоксы мультивселенной     | Etc         | SWEET_HOME                                                          | true   |        32 |
+| 36 | Feedback                      | Feedback    | ThankYouForparticipating                                            | true   |         0 |
++----+-------------------------------+-------------+---------------------------------------------------------------------+--------+-----------+
+
